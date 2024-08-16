@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Defold
+Exec=path_to_defold "%f"
+Type=Application
+Terminal=false
+MimeType=application/x-defold-project
